@@ -1,4 +1,4 @@
-package signal
+package onsignal
 
 import (
 	"context"
